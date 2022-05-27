@@ -19,7 +19,7 @@ nltk.download()
 ```
 
 ## Download data and pre-trained models
-$DATA_PATH : represents the path where data is stored. $DATA_PATH = data/
+$DATA_PATH : represents the path where data is stored. $DATA_PATH = data/ <br/>
 $RUN_PATH : represents the path where pre-trained models are saved. $RUN_PATH = runs/
 
 For images, please refer to the individual dataset's page.
